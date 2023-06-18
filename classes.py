@@ -1,6 +1,6 @@
 import tabulate, colorama, sqlite3, datetime
 
-police_force_name = "Metropolis Police Department"
+police_force_name = "" # Change This
 
 def colour_print(alert,text,color):
     colorama.init()
